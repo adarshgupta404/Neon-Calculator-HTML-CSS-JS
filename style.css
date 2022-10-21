@@ -129,8 +129,6 @@ body {
 
 #C {
     padding: 3.3px 23px;
-    margin-left: 1.5px;
-    left: 1%;
 }
 
 .X {
@@ -150,12 +148,15 @@ body {
 }
 
 .d {
-    padding: 3.3px 25px 3.3px 25px;
+    padding: 3.3px 20px 3.3px;
     font-size: 3rem;
 }
-
+.plus{
+    padding:2% 7%;
+}
 .minus {
     font-size: 3.5rem;
+    padding:2% 7%;
 }
 
 .item {
@@ -169,7 +170,6 @@ body {
 #D {
     font-size: 2rem;
     padding: 6.3px 23px;
-    margin-left: 0;
 }
 
 a {
